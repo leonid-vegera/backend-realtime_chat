@@ -2,7 +2,6 @@ POST http://localhost:1927/authenticate
 Content-Type: application/json
 
 {
-  "name": "Chuck Norris",
-  "password": "bruce-lee"
+  "name": "Chuck Norris"
 }
 
